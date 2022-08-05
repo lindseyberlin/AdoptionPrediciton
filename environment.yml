@@ -16,6 +16,6 @@ dependencies:
   - pip=21.2.4
 
   - pip:
-    - streamlit==1.2.0
+    - streamlit==1.9.2
 
 prefix: /opt/anaconda3/envs/streamlit
