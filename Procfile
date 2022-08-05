@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run VisualizingAnimalCenterData.py
+web: sh setup.sh && streamlit run AdoptionPrediction.py
